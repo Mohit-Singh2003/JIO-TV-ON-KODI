@@ -2,19 +2,18 @@
   <br>
   <img src="resources/kodi.png" height="60" width="60">
   <img src="resources/icon.png" height="60" width="60">
-  </h2>
-  <h4 align="center">JioTV Kodi Add-on </h4>
+</h2>
+<h4 align="center">JioTV Kodi Add-on</h4>
 
-
-# Simple step by step guide to install Jio TV plugin on KODI.
+# Simple step by step guide to install Jio TV plugin on KODI By Mohit.
 
 This guide will show you how to install the Jio TV plugin on KODI. Jio TV is a streaming service that offers live TV channels, movies, and shows. 
 
-<h1 align="center">  Manual Installation <h1>
+<h1 align="center">Manual Installation</h1>
 
 ## Step 1 - Install Kodi
 
-Install KODI from [Play Store](https://bit.ly/3NIIlea) or [Apkmirror](https://bit.ly/3NM28t0).
+Install KODI into your Raspberry Pi (LibreELEC)
 
 Open KODI.
 
@@ -36,7 +35,7 @@ Select `repository.tobalan-2.0.1.zip`  -> [Link1](https://bit.ly/3POIaki) - [Lin
 
 ![Logo](https://i.imgur.com/Gn7ICe2.png)
 
-## Step 3.2 - Jio TV add-on isntallation
+## Step 3.2 - Jio TV add-on installation
 
 Go to `Settings / Add-ons / Install from repository / TobAlan Repository / Video Add-ons / JioTV`
 
@@ -44,8 +43,7 @@ Install > OK
 
 ![Logo](https://i.imgur.com/UiotOaz.png)
 
-
-## Step 4 - Apply Error Fix-
+## Step 4 - Apply Error Fix
 
 Go to `Settings/System/Add-ons`
 
@@ -61,11 +59,11 @@ Install the downloaded `script.module.requests.thundersky7+2.27.1-jiotvfix-reque
 
 ## Step 5 - Jio TV Configuration and logging in.
 
-Go to `Settings / Add-ons / My Add-ons / Video Add-ons / JioTV / Configure` 
+Go to `Settings / Add-ons / My Add-ons / Video Add-ons / JioTV / Configure`
 
 ![Logo](https://i.imgur.com/Ba2txZQ.png)
 
-Steup PVR IPTV
+Setup PVR IPTV
 
 ![Logo](https://i.imgur.com/EZm4UFv.png)
 
@@ -77,8 +75,4 @@ Log in via WEB or Keyboard (OTP/Password)
 
 ![Logo](https://i.imgur.com/GPlcKs1.png)
 
-
-
-
-
-
+<p align="center">© Mohit</p>
